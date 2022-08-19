@@ -1,0 +1,9 @@
+@import './constants/constants.css';
+
+body {
+  background-color: var(--mainBg);
+  font-family: var(--fontFamily);
+  font-size: var(--fontSize14);
+  display: flex;
+  justify-content: center;
+}

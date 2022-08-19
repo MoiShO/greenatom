@@ -1,0 +1,13 @@
+.wrapper_text_with_title {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper_text_with_title_title {
+  color: var(--secondaryTextColor);
+  text-transform: uppercase;
+}
+
+.wrapper_text_with_title_text {
+  color: var(--primaryTextColor);
+}

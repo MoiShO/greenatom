@@ -1,0 +1,25 @@
+.wrapper_ticket {
+  margin-top: var(--marginDefault);
+  background-color: var(--white);
+  border-radius: var(--borderRadius);
+  box-shadow: var(--shadow);
+  padding: var(--paddingDefault);
+}
+
+.wrapper_ticket_header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper_ticket_info {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: .5em;
+  text-align: start;
+  grid-gap: 10px;
+}
+
+.amount {
+  color: var(--primaryBlue);
+  font-weight: bold;
+}

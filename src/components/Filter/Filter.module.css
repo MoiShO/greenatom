@@ -1,0 +1,18 @@
+@import "../../constants/constants.css";
+
+.wrapper_filter {
+  display: flex;
+  justify-content: flex-start;
+  text-transform: uppercase;
+  flex-direction: column;
+  background-color: var(--white);
+  font-weight: bold;
+  font-size: var(--fontSize12);
+  box-shadow: var(--shadow);
+  border-radius: var(--borderRadius);
+  padding-bottom: 10px;
+}
+
+.wrapper_filter_title{
+  padding: var(--padding);
+}

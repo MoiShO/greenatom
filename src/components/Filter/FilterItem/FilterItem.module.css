@@ -1,0 +1,18 @@
+@import '../../../constants/constants.css';
+
+.wrapper_filter_item {
+  display: flex;
+  font-weight: 400;
+  text-transform: none;
+  padding-left: var(--marginDefault);
+  padding: 10px 0 10px var(--marginDefault);
+}
+
+.wrapper_filter_item:hover {
+  background-color: #f0fbfd;
+  cursor: pointer;
+}
+
+.wrapper_filter_item_checkbox {
+  margin-right: var(--paddingDefault);
+}

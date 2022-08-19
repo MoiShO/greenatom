@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "vendor": "s7",
+    "amount": {
+      "amount": 13200,
+      "currency": "RUB"
+    },
+    "infos": [
+      {
+        "from": {
+          "label": "ZZT",
+          "time": "20:40"
+        },
+        "to": {
+          "label": "MSK",
+          "time": "8:00"
+        },
+        "transitTime": {
+          "hours": 40,
+          "minutes": 20
+        },
+        "transfers": [
+          "HHT",
+          "ZZT"
+        ]
+      },
+      {
+        "from": {
+          "label": "ZZT",
+          "time": "20:40"
+        },
+        "to": {
+          "label": "MSK",
+          "time": "8:00"
+        },
+        "transitTime": {
+          "hours": 40,
+          "minutes": 20
+        },
+        "transfers": [
+          "HHT",
+          "ZZT"
+        ]
+      },
+      {
+        "from": {
+          "label": "ZZT",
+          "time": "20:40"
+        },
+        "to": {
+          "label": "MSK",
+          "time": "8:00"
+        },
+        "transitTime": {
+          "hours": 40,
+          "minutes": 20
+        },
+        "transfers": [
+          "HHT",
+          "ZZT"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "vendor": "s7",
+    "amount": {
+      "amount": 13100,
+      "currency": "RUB"
+    },
+    "infos": [
+      {
+        "from": {
+          "label": "ZZT",
+          "time": "20:40"
+        },
+        "to": {
+          "label": "MSK",
+          "time": "8:00"
+        },
+        "transitTime": {
+          "hours": 40,
+          "minutes": 20
+        },
+        "transfers": [
+          "HHT"
+        ]
+      }
+    ]
+  }
+]

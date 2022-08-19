@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+:root {
+  /* colors */
+  --primaryBlue: #2195f2;
+  --white: #fefefe;
+  --mainBg: #f2f6f9;
+  --primaryTextColor: #878787;
+  --secondaryTextColor: #c9ced1;
+  /* offset */
+  --marginPage: 24px 48px;
+  --marginDefault: 24px;
+  --paddingDefault: 12px;
+  --padding: 12px 24px;
+  --borderRadius: 5px;
+  /* font */
+  --fontFamily: 'Roboto', sans-serif;
+  --fontSize14: 14px;
+  --fontSize12: 12px;
+  --borderStyle: 1px solid var(--primaryTextColor);
+  --shadow: 1px 1px 2px 1px var(--secondaryTextColor);
+}

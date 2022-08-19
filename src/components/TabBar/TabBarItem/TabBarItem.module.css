@@ -1,0 +1,29 @@
+.wrapper_tab_bar_item {
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: var(--padding);
+  font-weight: bold;
+  font-size: var(--fontSize12);
+  letter-spacing: 0.5px;
+}
+
+.active {
+  color: var(--white);
+  background-color: var(--primaryBlue);
+}
+
+.inactive {
+  background-color: var(--white);
+  box-shadow: var(--shadow);
+
+}
+
+.first {
+  border-top-left-radius: var(--borderRadius);
+  border-bottom-left-radius: var(--borderRadius);
+}
+
+.last {
+  border-top-right-radius: var(--borderRadius);
+  border-bottom-right-radius: var(--borderRadius);
+}

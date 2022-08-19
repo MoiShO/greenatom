@@ -1,0 +1,19 @@
+.wrapper_airfare {
+  display: flex;
+  margin: var(--marginPage);
+}
+
+.wrapper_airfare_header {
+  flex-direction:row;
+  display: flex;
+}
+
+.wrapper_airfare_header_left {
+  /* flex: 1; */
+  height: auto;
+  margin-right: var(--marginDefault);
+}
+
+.wrapper_airfare_header_right {
+  /* flex: 2; */
+}
